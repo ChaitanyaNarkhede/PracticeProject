@@ -6,3 +6,5 @@ Change - from remote
 
 Change - to fix bug2
 
+Change made to see the effect of change in master.
+This change is by remote teamMate.
