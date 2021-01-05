@@ -6,8 +6,15 @@ Change - from remote
 
 Change -> to fix bug2
 
+
 I have made Change has been made at remote repo.
 Change has been made by me at remote. WI7
+
+Changes have been made at REMOTE repo.
+Change made here with remote master. 
+
 Change made to see the effect of change in master.
 This change is by remote teamMate.
+
+Change has been rebased. WI8
 
